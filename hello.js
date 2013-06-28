@@ -6,3 +6,5 @@ http.createServer(function(request, response) {
 	response.close();  
 }).listen(3000);  
 sys.puts("Server running at http://localhost:3000/"); 
+/* add user's information here */
+var name = "shenshaowei";
